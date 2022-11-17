@@ -888,8 +888,4 @@ case $weather in
   ;;
 esac
 ```
- 
-<p align=right>
-Inspired by <a href="https://github.com/RehanSaeed/Bash-Cheat-Sheet">RehanSaeed/Bash-Cheat-Sheet</a></p>
-
 [⬆ ʀᴇᴛᴜʀɴ ᴛᴏ ᴄᴏɴᴛᴇɴᴛꜱ](#contents)
